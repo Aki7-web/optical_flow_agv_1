@@ -22,6 +22,5 @@ To implement sparse optical flow using the Lucas-Kanade method and visualize mot
 - Optical flow performs better in videos with clear motion and distinct features
 - Low-texture regions produce fewer trackable points
 
-## How to Run
-```bash
-python optical_flow.py
+## Note
+The input video is not included due to size constraints. Any sample video can be used to run the code.
