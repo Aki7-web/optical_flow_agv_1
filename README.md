@@ -83,7 +83,7 @@ else:
 
 throttle = 1.0
 
-## Challenges Faced
+# Challenges Faced
 
 --> Faced issues with GUI rendering (RViz / simulator display) inside Docker  
 --> Errors like "Failed to open display" prevented visualization  
@@ -92,7 +92,7 @@ throttle = 1.0
 
 ---
 
-## What I Learned
+# What I Learned
 
 --> How optical flow can be used beyond visualization, for decision-making  
 --> Basics of integrating perception with control  
@@ -100,7 +100,7 @@ throttle = 1.0
 
 ---
 
-## Conclusion
+# Conclusion
 
 Subtask 1 was successfully implemented and visualized.  
 For Subtask 2, I was able to implement the core idea and logic, but due to environment and visualization issues, full behavior in simulation could not be verified.  
