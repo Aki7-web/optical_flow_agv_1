@@ -113,3 +113,18 @@ However, the overall pipeline of:
 
 was understood and partially implemented.
 
+---
+
+## Docker Environment
+
+The project is inside a Docker container.
+
+To run:
+
+1. docker start -ai agvdocker
+
+2. cd /root
+
+Inside root, subtask2.py will directly be present, and the subtask1 is inside the optional_flow folder, in that u can run python optional_flow.py.
+You can use any video to test out althought i got gui interruptions in subtask2 processing :(
+
